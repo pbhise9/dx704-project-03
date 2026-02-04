@@ -1,0 +1,2 @@
+UCB1
+Observed rewards are bounded, real-valued numbers (not just 0/1), so UCB1 matches this setting, while Bernoulli-based Thompson/Beta methods do not.
